@@ -21,7 +21,7 @@ The prediction models are trained using historical video game sales data, and th
 
   1. All tasks in this exercise are performed from Kafka home directory. You may want to define an alias for the quick jump to this directory each time you start a Terminal: 
   ```
-  alias cdk='cd /usr/local/kafka/kafka_2.13-3.2.1
+  alias cdk='cd /usr/local/kafka/kafka_2.13-3.2.1'
   ```
   2. From a new Terminal: Start ZooKeeper
   ```
