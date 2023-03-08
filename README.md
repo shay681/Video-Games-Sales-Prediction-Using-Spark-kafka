@@ -96,5 +96,5 @@ The prediction models are trained using historical video game sales data, and th
   ```
 
 ## References
-- paper-1: MLlib: Machine Learning in Apache Spark
-- paper-2: XGBoost: A Scalable Tree Boosting System
+- paper-1: MLlib: Machine Learning in Apache Spark, [https://www.jmlr.org/papers/volume17/15-237/15-237.pdf]
+- paper-2: XGBoost: A Scalable Tree Boosting System, [https://arxiv.org/pdf/1603.02754.pdf]
