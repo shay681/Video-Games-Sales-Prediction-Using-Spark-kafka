@@ -1,5 +1,5 @@
-Big Data
-========
+Video Games Sales Prediction Using Spark & kafka
+================================
 
 This project aims to predict video game sales using machine learning algorithms in MLlib. 
 The prediction models are trained using historical video game sales data, and the predictions are made based on the features of the games, such as their genre, platform, and publisher. The data is streamed using Kafka server and managed using Zookeeper. The goal is to develop a predictive model that can accurately predict video game sales and provide insights into the factors that influence video game sales. This project can be useful for game developers, publishers, and investors who want to make data-driven decisions based on sales predictions.
@@ -31,7 +31,7 @@ The prediction models are trained using historical video game sales data, and th
   ```
   bin/kafka-server-start.sh   config/server.properties &
   ```
-  4. run main program
+  4. Run main program
   ```
   python Big_Data.ipynb
   ```
@@ -41,7 +41,7 @@ The prediction models are trained using historical video game sales data, and th
 |—— data
 |    |—— Video_Games_Sales.csv
 |    |—— Video_Games_Sales_Fixed.csv
-|—— Big Data.ipynb
+|—— Big_Data.ipynb
 |—— results
 |    |—— 1981.csv
 |    |—— 1982.csv
